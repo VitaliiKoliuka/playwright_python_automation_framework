@@ -1,0 +1,9 @@
+[32mINFO    [0m LoginPage:utils.py:16 Execution action: navigate_to with arguments ('https://www.facebook.com/',)
+[32mINFO    [0m venv:utils.py:16 navigate to https://www.facebook.com/
+[32mINFO    [0m LoginPage:utils.py:16 performing login
+[32mINFO    [0m LoginPage:utils.py:16 Execution action: type_text with arguments ('invalid_email',)
+[32mINFO    [0m LoginPage:utils.py:16 Execution action: type_text with arguments ('password',)
+[32mINFO    [0m LoginPage:utils.py:16 Execution action: click_element with arguments ()
+[31m[1mERROR   [0m LoginPage:utils.py:22 Login failed
+[31m[1mERROR   [0m AppValidation:utils.py:22 login failed
+[32mINFO    [0m venv:utils.py:16 closing browser

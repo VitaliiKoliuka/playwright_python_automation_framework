@@ -1,0 +1,6 @@
+INFO     LoginPage:utils.py:16 Execution action: navigate_to with arguments ('https://www.facebook.com/',)
+INFO     venv:utils.py:16 navigate to login page
+INFO     LoginPage:utils.py:16 performing login
+INFO     LoginPage:utils.py:16 Execution action: type_text with arguments ('+380661111662',)
+ERROR    LoginPage:utils.py:22 action failed type_text with arguments ('+380661111662',)
+INFO     venv:utils.py:16 closing browser

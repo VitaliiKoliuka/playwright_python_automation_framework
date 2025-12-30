@@ -1,0 +1,7 @@
+INFO     LoginPage:utils.py:16 Execution action: navigate_to with arguments ('https://www.facebook.com/',)
+INFO     venv:utils.py:16 navigate to login page
+INFO     LoginPage:utils.py:16 performing login
+INFO     LoginPage:utils.py:16 Execution action: type_text with arguments ('',)
+INFO     LoginPage:utils.py:16 Execution action: type_text with arguments ('valid_password',)
+INFO     LoginPage:utils.py:16 Execution action: click_element with arguments ()
+INFO     venv:utils.py:16 closing browser

@@ -1,0 +1,1 @@
+Execution action: navigate_to with arguments ('https://www.facebook.com/',)
